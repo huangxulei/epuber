@@ -1,0 +1,70 @@
+.cover  {
+    border: 2px groove gray;
+}
+.cover:hover
+{
+    border: 2px groove #0D8FBF;
+}
+.title{
+    font: 9pt "Microsoft YaHei";
+}
+
+.cfiyBtn{
+  border:none;
+}
+
+.addClassfiy {
+    border: 1px groove gray;
+    background-color: rgb(255, 255, 255);
+}
+
+.addClassfiy QPushButton{
+    border: 1px groove gray;
+    color: white;
+    background-color: #55aaff;
+}
+.addClassfiy QLineEdit{
+   border: 1px solid #A0A0A0;
+}
+
+QRadioButton::indicator{
+    width:16px;
+    height:18px;
+    border-radius: 30px;
+    border-color:white;
+}
+
+QScrollBar{
+    background:transparent;
+    width:4px;
+    background-color: gray;
+}
+
+QScrollBar::up-arrow:vertical{
+    border-width:0px;
+    background-color:transparent;
+}
+QScrollBar::down-arrow:vertical{
+    border-style:outset;
+    border-width:0px;
+    background:transparent;
+}
+
+
+QRadioButton::indicator:checked {
+	image: url(:/img/res/icon/gou16.png);
+}
+
+.bold QLabel {
+    font: normal bold 14px;
+    border:none;
+}
+#imgButton{
+    image: url(:/img/res/icon/Icon_f_add.png);
+    width:50px;
+	height:25px;
+    border:none;
+}
+
+
+
