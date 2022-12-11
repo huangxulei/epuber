@@ -1,10 +1,10 @@
 # epuber
 1、本软件用于打开Epub文件的电子书阅读器。<br/>
-   程序名：橘猫读书
-   操作视频：https://www.bilibili.com/video/BV1De4y1u7tW/?vd_source=cecf305399cdec49dcef2f44e80d066b
+   程序名：橘猫读书 <br/>
+   操作视频：https://www.bilibili.com/video/BV1De4y1u7tW/?vd_source=cecf305399cdec49dcef2f44e80d066b <br/>
    编译后成品： 链接：https://pan.baidu.com/s/16PMGwP_w_OSrk-hlG3n95A <br/>
-               提取码：8e7m
-   大概：32M。
+               提取码：8e7m <br/>
+   大概：32M。 <br/>
    
 
 2、开发相关<br/>
